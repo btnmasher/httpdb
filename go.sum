@@ -1,0 +1,15 @@
+github.com/gorilla/http v0.0.0-20190627042742-d268792bdee7 h1:bFJgNQQcl/uBD2BuTZGYZ3lDomhIxCcn8r812nV0YmY=
+github.com/gorilla/http v0.0.0-20190627042742-d268792bdee7/go.mod h1:7SoxxYlLs8XfoT5AXYy1WWMqjg3iaA9gZblNHzXQDqo=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/btnmasher/lumberjack v0.0.1 h1:U6AXvkq8KEweUe7lab0vhSoO1U0QQjCfoBtOc4LqIh0=
+github.com/btnmasher/lumberjack v0.0.1/go.mod h1:rBzu3cYgJMB6Z4YtEydpeq1CjD9LaE1NspHtCdxHsZE=
+github.com/btnmasher/random v0.0.1 h1:4n5k4OZeQZafpqlpybzhE2V8nWpuIpwhU2hyvoexCA0=
+github.com/btnmasher/random v0.0.1/go.mod h1:E6WiJcBgcYHuN4hxI4tz6hOPmgMyqopdGyWSx4YYfY8=
+github.com/btnmasher/smallcfg v0.0.1 h1:UoRkHtKr8o2dbz3czWWW0DAwBW3KpvHFYAtvDIVSaWY=
+github.com/btnmasher/smallcfg v0.0.1/go.mod h1:yDyrZgboBMtBbVaR0zHwxpng0s/NnTgsNOHV9YGdeHU=
+github.com/kr/pretty v0.2.0 h1:s5hAObm+yFO5uHYt5dYjxi2rXrsnmRpJx4OYvIWUaQs=
+github.com/kr/pretty v0.2.0/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=

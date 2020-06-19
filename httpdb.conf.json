@@ -1,0 +1,8 @@
+{
+	"app": {
+		"port": 9000,
+		"debug": true,
+		"timeout": 5,
+		"atomic_buffer": 100
+	}
+}
